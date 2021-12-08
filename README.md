@@ -1,10 +1,10 @@
-Dual Attention Mechanism and Contrastive Learning Constraint for Point Cloud Classification
+Dual Attention Mechanism and Negative Information Constraint for Point Cloud Classification
 ==
 Created by [Yuanyue Zhang](https://github.com/yy-zhang832), [Hang Sun](https://github.com/sunhang1986), Shuifa Sun from Department of Computer and Information, China Three Gorges University.
 
 Introduction
 --
-Our paper proposes a dual attention mechanism and contrastive learning constraint point cloud classification network(DACR-Net). It can benefit from channel and space to strengthen the interaction between local features respectively and improve the capability of feature extraction of the network.
+Our paper proposes a dual attention mechanism and negative information constraint point cloud classification network(DANC-Net). It can benefit from channel and space to strengthen the interaction between local features respectively and improve the capability of feature extraction of the network.
 
 Prerequisites
 --
